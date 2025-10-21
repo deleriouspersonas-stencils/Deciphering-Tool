@@ -1,0 +1,5 @@
+{
+  "name": "Universal Data Decipherment Engine",
+  "description": "An AI-driven engine to conceptually analyze, interpret, and reconstruct any form of digital data, from CPU-level instructions to cryptographic hashes, and generate a visual representation of the process.",
+  "requestFramePermissions": []
+}
